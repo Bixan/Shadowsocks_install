@@ -10,7 +10,7 @@ Shadowsocks一键安装包
 
 4、输入端口号
 
-![Shadowsocks](https://github.com/teddysun/shadowsocks_install/raw/master/shadowsocks.png)
+![Shadowsocks](https://raw.githubusercontent.com/Bixan/Shadowsocks_install/master/shadowsocks.png)
 
 shadowsocks.sh
 ===============
