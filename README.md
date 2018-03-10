@@ -1,2 +1,2 @@
 # Shadowsocks_install
-Shadowsocks一键
+Shadowsocks一键安装包
